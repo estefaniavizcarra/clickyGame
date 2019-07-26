@@ -1,10 +1,18 @@
 .card {
-    border: 10px groove;
-    margin: 5px;
+    border: 9px inset #216eb5;
+    margin: 0px;
     float: left;
+    border-color:#216EB5!important;
+    border-radius: 200px 200px 200px 200px;
+-moz-border-radius: 200px 200px 200px 200px;
+-webkit-border-radius: 200px 200px 200px 200px;
+
 }
 
 img {
-    height: 90px;
+    height: 87px;
     width: 90px;
+    border-radius: 200px 200px 200px 200px;
+    -moz-border-radius: 200px 200px 200px 200px;
+    -webkit-border-radius: 200px 200px 200px 200px;
 }

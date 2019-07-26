@@ -15,7 +15,7 @@ class App extends Component {
     guessedCards: cards,
     currentScore: 0,
     highScore: 0,
-    note: "WOW. so game. much fun. don't click the same photo twice or you lose."
+    note: "Don't click the same photo twice or you lose."
   };
 
   // sort cards in random order
@@ -36,7 +36,7 @@ class App extends Component {
         guessedCards: cards,
         highScore: (this.state.currentScore > this.state.highScore) ? this.state.currentScore : this.state.highScore,
         currentScore: 0,
-        note: "nope. click a photo to start over."
+        note: "Click a photo to start again"
       })
       // else, correct guess. Set guessedCards array to new filterd list
     } else {
@@ -45,7 +45,7 @@ class App extends Component {
       this.setState({
         guessedCards: newCardsList,
         currentScore: this.state.currentScore + 1,
-        note: "WOW. good guess."
+        note: "Correct!!"
       })
     }
     this.sortCards();
