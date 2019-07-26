@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "BOO",
+        "image": "https://st-listas.20minutos.es/images/2013-03/357802/3959139_249px.jpg?1434263202"
+    },
+    {
+        "id": 2,
+        "name": "Sulley",
+        "image": "https://st-listas.20minutos.es/images/2013-03/357802/3959148_249px.jpg?1434263202"
+    },
+    {
+        "id": 3,
+        "name": "Mike",
+        "image": "https://st-listas.20minutos.es/images/2013-03/357802/3959143_249px.jpg?1434263202"
+    },
+    {
+        "id": 4,
+        "name": "Roz",
+        "image": "https://st-listas.20minutos.es/images/2013-03/357802/3959146_249px.jpg?1434263202"
+    },
+    {
+        "id": 5,
+        "name": "Celia",
+        "image": "https://st-listas.20minutos.es/images/2013-03/357802/3959140_249px.jpg?1434263202"
+    },
+    {
+        "id": 6,
+        "name": "Randall",
+        "image": "https://assets.metrolatam.com/mx/2013/02/21/monstersuniversitypersonajeshardscrabble-1200x800.jpg"
+    },
+    {
+        "id": 7,
+        "name": "fungus",
+        "image": "https://st-listas.20minutos.es/images/2013-03/357802/3959149_249px.jpg?1434263202"
+    },
+    {
+        "id": 8,
+        "name": "Bagel doge",
+        "image": "https://vignette.wikia.nocookie.net/cinemasins/images/d/da/Johnny.png/revision/latest?cb=20170131203232"
+    },
+    {
+        "id": 9,
+        "name": "Smity",
+        "image": "https://st-listas.20minutos.es/images/2013-03/357802/3959144_249px.jpg?1434263202"
+    },
+    {
+        "id": 10,
+        "name": "Scott",
+        "image": "https://assets.metrolatam.com/mx/2013/02/21/monstersuniversitypersonajessquishy-1200x800.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Yeti",
+        "image": "https://st-listas.20minutos.es/images/2013-03/357802/3959141_249px.jpg?1434263202"
+    },
+    {
+        "id": 12,
+        "name": "George Sanderson",
+        "image": "https://st-listas.20minutos.es/images/2013-03/357802/3959142_249px.jpg?1434263202"
+    }
+]

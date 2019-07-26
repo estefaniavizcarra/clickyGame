@@ -1,0 +1,18 @@
+.nav {
+    background: transparent!important
+}
+
+.nav-text{
+    margin: 0px 5%;
+    padding: 10px 0px;
+    font-size: 1em;
+    color:  #216EB5!important;
+    /* font-family: 'Allerta Stencil', sans-serif; */
+    font-family: 'Days One', sans-serif;
+
+
+}
+#logo{
+    width: 200px!important;
+    height: 50px!important;
+}
