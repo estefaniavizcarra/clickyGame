@@ -1,5 +1,5 @@
 
-🔵 Clicky Game 
+🔵 CLICKY GAME 🔵
 
 Link to Github the Monster's Inc Clicky Game  -> https://estefaniavizcarra.github.io/clickyGame/
 
